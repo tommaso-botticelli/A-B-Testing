@@ -45,9 +45,9 @@ Descriptive Analysis: Overview of data trends, distribution of responses, and de
 
 Assumption Testing: Tests to ensure that assumptions for statistical models are met (e.g., normality, independence).
 
-Results: Present the findings from both frequentist and Bayesian analyses, including the impact of music type on respondents' perceptions.
+### Results: Present the findings from both frequentist and Bayesian analyses, including the impact of music type on respondents' perceptions.
 
-Conclusions and Recommendations: Provide insights and recommendations based on the analysis:
+### Conclusions and Recommendations: Provide insights and recommendations based on the analysis:
 
 Which music should be used for the road safety video.
 
